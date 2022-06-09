@@ -1,52 +1,311 @@
 {
-  "toys": [
+  "users": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Naftali Kulik",
+      "username": "nkulik",
+      "password": "nkulik",
+      "readList": [
+        {
+          "id": 1,
+          "cover": "https://covers.openlibrary.org/b/id/524440-M.jpg",
+          "author": "Steven Erikson",
+          "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
+          "ownRating": 5,
+          "review": "none"
+        },
+        {
+          "id": 2,
+          "cover": "https://covers.openlibrary.org/b/id/6680652-M.jpg",
+          "author": "Steven Erikson",
+          "title": "Deadhouse Gates (The Malazan Book of the Fallen, Book 2)",
+          "ownRating": 5,
+          "review": "none"
+        },
+        {
+          "id": 4,
+          "cover": "https://covers.openlibrary.org/b/id/8234423-M.jpg",
+          "author": "J. K. Rowling",
+          "title": "Harry Potter and the Chamber of Secrets",
+          "ownRating": "none",
+          "review": "none"
+        },
+        {
+          "id": 7,
+          "cover": "https://covers.openlibrary.org/b/id/10335189-M.jpg",
+          "author": "Suzanne Collins.",
+          "title": "Gregor the Overlander",
+          "ownRating": "none",
+          "review": "none"
+        },
+        {
+          "id": 3,
+          "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
+          "author": "J. K. Rowling.",
+          "title": "Harry Potter and the Philosopher's Stone",
+          "ownRating": 2,
+          "review": "none"
+        },
+        {
+          "id": 8,
+          "cover": "https://covers.openlibrary.org/b/id/12646545-M.jpg",
+          "author": "Suzanne Collins",
+          "title": "The Hunger Games",
+          "ownRating": 5,
+          "review": "great book, a bit disturbing"
+        }
+      ],
+      "wishList": [],
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "chavi",
+      "username": "chavi",
+      "password": "chavi",
+      "readList": [
+        {
+          "id": 5,
+          "cover": "https://covers.openlibrary.org/b/id/433572-M.jpg",
+          "author": "Judith Viorst ; illustrated by Ray Cruz.",
+          "title": "Alexander and the terrible, horrible, no good, very bad day",
+          "ownRating": 3,
+          "review": "none"
+        }
+      ],
+      "wishList": [
+        {
+          "id": 6,
+          "cover": "https://covers.openlibrary.org/b/id/434060-M.jpg",
+          "author": "Andrew Clements ; pictures by Brian Selznick.",
+          "title": "Frindle",
+          "ownRating": "none",
+          "review": "none"
+        }
+      ],
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "jack",
+      "username": "jack",
+      "password": "jack",
+      "readList": [
+        {
+          "id": 1,
+          "cover": "https://covers.openlibrary.org/b/id/524440-M.jpg",
+          "author": "Steven Erikson",
+          "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
+          "ownRating": 2,
+          "review": "none"
+        }
+      ],
+      "wishList": [],
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "naftali kulik",
+      "username": "nkulik94",
+      "password": "nkulik",
+      "readList": [
+        {
+          "id": 3,
+          "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
+          "author": "J. K. Rowling.",
+          "title": "Harry Potter and the Philosopher's Stone",
+          "ownRating": 5,
+          "review": "classic"
+        }
+      ],
+      "wishList": [],
+      "id": 4
+    }
+  ],
+  "books": [
+    {
+      "cover": "https://covers.openlibrary.org/b/id/524440-M.jpg",
+      "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
+      "publisher": "Tor Books",
+      "publishDate": "August 22, 2006",
+      "olKey": "/books/OL8053478M",
+      "readBy": {
+        "1": 1,
+        "3": 3
+      },
+      "wantToRead": {},
+      "rating": {
+        "allRatings": [
+          5,
+          2
+        ],
+        "total": 7,
+        "average": 3.5
+      },
+      "reviews": {},
+      "author": "Steven Erikson",
+      "description": "Sorry, there is no description available for this book",
+      "series": "Malazan Book of the Fallen (4)",
+      "id": 1
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "cover": "https://covers.openlibrary.org/b/id/6680652-M.jpg",
+      "title": "Deadhouse Gates (The Malazan Book of the Fallen, Book 2)",
+      "publisher": "Tor Fantasy",
+      "publishDate": "February 7, 2005",
+      "olKey": "/books/OL8054062M",
+      "readBy": {
+        "1": 1
+      },
+      "wantToRead": {},
+      "rating": {
+        "allRatings": [
+          5
+        ],
+        "total": 5,
+        "average": 5
+      },
+      "reviews": {},
+      "author": "Steven Erikson",
+      "description": "Sorry, there is no description available for this book",
+      "series": "Malazan Book of the Fallen (2)",
+      "id": 2
     },
     {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "publisher": "Bloomsbury",
+      "publishDate": "1998",
+      "olKey": "/books/OL22856696M",
+      "readBy": {
+        "1": 1,
+        "4": 4
+      },
+      "wantToRead": {},
+      "rating": {
+        "allRatings": [
+          5,
+          2
+        ],
+        "total": 7,
+        "average": 3.5
+      },
+      "reviews": {
+        "4": {
+          "content": "classic",
+          "rating": 5
+        }
+      },
+      "author": "J. K. Rowling.",
+      "description": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Wizards and Witches",
+      "series": "Harry Potter #1",
+      "id": 3
     },
     {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "cover": "https://covers.openlibrary.org/b/id/8234423-M.jpg",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publisher": "Arthur A. Levine Books",
+      "publishDate": "1999-06",
+      "olKey": "/books/OL25631456M",
+      "readBy": {
+        "1": 1
+      },
+      "wantToRead": {},
+      "rating": {
+        "allRatings": [],
+        "total": "none",
+        "average": "none"
+      },
+      "reviews": {},
+      "author": "J. K. Rowling",
+      "description": "The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike\r\n\r\nAnd strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.\r\n\r\nBut each of these seem minor annoyances when the real trouble begins, and someone -- or something -- starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects . . . Harry Potter himself?\r\n(Front flap)",
+      "series": "Harry Potter #2",
+      "id": 4
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "cover": "https://covers.openlibrary.org/b/id/433572-M.jpg",
+      "title": "Alexander and the terrible, horrible, no good, very bad day",
+      "publisher": "Aladdin Paperbacks",
+      "publishDate": "1987",
+      "olKey": "/books/OL2373033M",
+      "readBy": {
+        "2": 2
+      },
+      "wantToRead": {},
+      "rating": {
+        "allRatings": [
+          3
+        ],
+        "total": 3,
+        "average": 3
+      },
+      "reviews": {},
+      "author": "Judith Viorst ; illustrated by Ray Cruz.",
+      "description": "On a day when everything goes wrong for him, Alexander is consoled by the thought that other people have bad days too.",
+      "id": 5
+    },
+    {
+      "cover": "https://covers.openlibrary.org/b/id/434060-M.jpg",
+      "title": "Frindle",
+      "publisher": "Simon & Schuster Books for Young Readers",
+      "publishDate": "1996",
+      "olKey": "/books/OL794027M",
+      "readBy": {},
+      "wantToRead": {
+        "2": 2
+      },
+      "rating": {
+        "allRatings": [],
+        "total": "none",
+        "average": "none"
+      },
+      "reviews": {},
+      "author": "Andrew Clements ; pictures by Brian Selznick.",
+      "description": "When he decides to turn his fifth grade teacher's love of the dictionary around on her, clever Nick Allen invents a new word and begins a chain of events that quickly moves beyond his control.",
+      "id": 6
+    },
+    {
+      "cover": "https://covers.openlibrary.org/b/id/10335189-M.jpg",
+      "title": "Gregor the Overlander",
+      "publisher": "Scholastic Press",
+      "publishDate": "2003",
+      "olKey": "/books/OL3578196M",
+      "readBy": {
+        "1": 1
+      },
+      "wantToRead": {},
+      "rating": {
+        "allRatings": [],
+        "total": "none",
+        "average": "none"
+      },
+      "reviews": {},
+      "author": "Suzanne Collins.",
+      "description": "When eleven-year-old Gregor and his two-year-old sister are pulled into a strange underground world, they trigger an epic battle involving men, bats, rats, cockroaches, and spiders while on a quest foretold by ancient prophecy.",
+      "id": 7
+    },
+    {
+      "cover": "https://covers.openlibrary.org/b/id/12646545-M.jpg",
+      "title": "The Hunger Games",
+      "publisher": "Scholastic Press",
+      "publishDate": "2008-10",
+      "olKey": "/books/OL37079411M",
+      "readBy": {
+        "1": 1
+      },
+      "wantToRead": {},
+      "rating": {
+        "allRatings": [
+          5
+        ],
+        "total": 5,
+        "average": 5
+      },
+      "reviews": {
+        "1": {
+          "content": "great book, a bit disturbing",
+          "rating": 5
+        }
+      },
+      "author": "Suzanne Collins",
+      "description": "Sorry, there is no description available for this book",
+      "id": 8
     }
   ]
 }
