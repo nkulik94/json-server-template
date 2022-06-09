@@ -4,117 +4,107 @@
       "name": "Naftali Kulik",
       "username": "nkulik",
       "password": "nkulik",
-      "readList": [
-        {
-          "id": 1,
+      "readList": {
+        "1": {
           "cover": "https://covers.openlibrary.org/b/id/524440-M.jpg",
           "author": "Steven Erikson",
           "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
           "ownRating": 5,
           "review": "none"
         },
-        {
-          "id": 2,
+        "2": {
           "cover": "https://covers.openlibrary.org/b/id/6680652-M.jpg",
           "author": "Steven Erikson",
           "title": "Deadhouse Gates (The Malazan Book of the Fallen, Book 2)",
           "ownRating": 5,
           "review": "none"
         },
-        {
-          "id": 4,
+        "4": {
           "cover": "https://covers.openlibrary.org/b/id/8234423-M.jpg",
           "author": "J. K. Rowling",
           "title": "Harry Potter and the Chamber of Secrets",
           "ownRating": "none",
           "review": "none"
         },
-        {
-          "id": 7,
+        "7": {
           "cover": "https://covers.openlibrary.org/b/id/10335189-M.jpg",
           "author": "Suzanne Collins.",
           "title": "Gregor the Overlander",
           "ownRating": "none",
           "review": "none"
         },
-        {
-          "id": 3,
+        "3": {
           "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
           "author": "J. K. Rowling.",
           "title": "Harry Potter and the Philosopher's Stone",
           "ownRating": 2,
           "review": "none"
         },
-        {
-          "id": 8,
+        "8": {
           "cover": "https://covers.openlibrary.org/b/id/12646545-M.jpg",
           "author": "Suzanne Collins",
           "title": "The Hunger Games",
           "ownRating": 5,
           "review": "great book, a bit disturbing"
         }
-      ],
-      "wishList": [],
+      },
+      "wishList": {},
       "id": 1
     },
     {
       "name": "chavi",
       "username": "chavi",
       "password": "chavi",
-      "readList": [
-        {
-          "id": 5,
+      "readList": {
+        "5": {
           "cover": "https://covers.openlibrary.org/b/id/433572-M.jpg",
           "author": "Judith Viorst ; illustrated by Ray Cruz.",
           "title": "Alexander and the terrible, horrible, no good, very bad day",
           "ownRating": 3,
           "review": "none"
         }
-      ],
-      "wishList": [
-        {
-          "id": 6,
+      },
+      "wishList": {
+        "6": {
           "cover": "https://covers.openlibrary.org/b/id/434060-M.jpg",
           "author": "Andrew Clements ; pictures by Brian Selznick.",
           "title": "Frindle",
           "ownRating": "none",
           "review": "none"
         }
-      ],
+      },
       "id": 2
     },
     {
       "name": "jack",
       "username": "jack",
       "password": "jack",
-      "readList": [
-        {
-          "id": 1,
+      "readList": {
+        "1": {
           "cover": "https://covers.openlibrary.org/b/id/524440-M.jpg",
           "author": "Steven Erikson",
           "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
           "ownRating": 2,
           "review": "none"
         }
-      ],
-      "wishList": [],
+      },
+      "wishList": {},
       "id": 3
     },
     {
       "name": "naftali kulik",
       "username": "nkulik94",
       "password": "nkulik",
-      "readList": [
-        {
-          "id": 3,
+      "readList": {
+        "3": {
           "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
           "author": "J. K. Rowling.",
           "title": "Harry Potter and the Philosopher's Stone",
           "ownRating": 5,
           "review": "classic"
         }
-      ],
-      "wishList": [],
+      },
+      "wishList": {},
       "id": 4
     }
   ],
@@ -188,6 +178,8 @@
       },
       "reviews": {
         "4": {
+          "user": "naftali kulik",
+          "username": "nkulik94", 
           "content": "classic",
           "rating": 5
         }
@@ -299,6 +291,8 @@
       },
       "reviews": {
         "1": {
+          "user": "Naftali Kulik",
+          "username": "nkulik",
           "content": "great book, a bit disturbing",
           "rating": 5
         }
