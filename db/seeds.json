@@ -9,36 +9,29 @@
           "cover": "https://covers.openlibrary.org/b/id/524440-M.jpg",
           "author": "Steven Erikson",
           "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
-          "ownRating": 5,
-          "review": "none"
+          "ownRating": 5
         },
         "2": {
           "cover": "https://covers.openlibrary.org/b/id/6680652-M.jpg",
           "author": "Steven Erikson",
           "title": "Deadhouse Gates (The Malazan Book of the Fallen, Book 2)",
-          "ownRating": 5,
-          "review": "none"
+          "ownRating": 5
         },
         "4": {
           "cover": "https://covers.openlibrary.org/b/id/8234423-M.jpg",
           "author": "J. K. Rowling",
-          "title": "Harry Potter and the Chamber of Secrets",
-          "ownRating": "none",
-          "review": "none"
+          "title": "Harry Potter and the Chamber of Secrets"
         },
         "7": {
           "cover": "https://covers.openlibrary.org/b/id/10335189-M.jpg",
           "author": "Suzanne Collins.",
-          "title": "Gregor the Overlander",
-          "ownRating": "none",
-          "review": "none"
+          "title": "Gregor the Overlander"
         },
         "3": {
           "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
           "author": "J. K. Rowling.",
           "title": "Harry Potter and the Philosopher's Stone",
-          "ownRating": 2,
-          "review": "none"
+          "ownRating": 2
         },
         "8": {
           "cover": "https://covers.openlibrary.org/b/id/12646545-M.jpg",
@@ -60,17 +53,14 @@
           "cover": "https://covers.openlibrary.org/b/id/433572-M.jpg",
           "author": "Judith Viorst ; illustrated by Ray Cruz.",
           "title": "Alexander and the terrible, horrible, no good, very bad day",
-          "ownRating": 3,
-          "review": "none"
+          "ownRating": 3
         }
       },
       "wishList": {
         "6": {
           "cover": "https://covers.openlibrary.org/b/id/434060-M.jpg",
           "author": "Andrew Clements ; pictures by Brian Selznick.",
-          "title": "Frindle",
-          "ownRating": "none",
-          "review": "none"
+          "title": "Frindle"
         }
       },
       "id": 2
@@ -84,8 +74,7 @@
           "cover": "https://covers.openlibrary.org/b/id/524440-M.jpg",
           "author": "Steven Erikson",
           "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
-          "ownRating": 2,
-          "review": "none"
+          "ownRating": 2
         }
       },
       "wishList": {},
