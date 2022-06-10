@@ -115,11 +115,11 @@
       "publisher": "Tor Books",
       "publishDate": "August 22, 2006",
       "olKey": "/books/OL8053478M",
-      "readBy": {
+      "readList": {
         "1": 1,
         "3": 3
       },
-      "wantToRead": {},
+      "wishList": {},
       "rating": {
         "allRatings": [
           5,
@@ -141,10 +141,10 @@
       "publisher": "Tor Fantasy",
       "publishDate": "February 7, 2005",
       "olKey": "/books/OL8054062M",
-      "readBy": {
+      "readList": {
         "1": 1
       },
-      "wantToRead": {},
+      "wishList": {},
       "rating": {
         "allRatings": [
           5
@@ -165,11 +165,11 @@
       "publisher": "Bloomsbury",
       "publishDate": "1998",
       "olKey": "/books/OL22856696M",
-      "readBy": {
+      "readList": {
         "1": 1,
         "4": 4
       },
-      "wantToRead": {},
+      "wishList": {},
       "rating": {
         "allRatings": [
           5,
@@ -198,10 +198,10 @@
       "publisher": "Arthur A. Levine Books",
       "publishDate": "1999-06",
       "olKey": "/books/OL25631456M",
-      "readBy": {
+      "readList": {
         "1": 1
       },
-      "wantToRead": {},
+      "wishList": {},
       "rating": {
         "allRatings": [],
         "total": "none",
@@ -220,10 +220,10 @@
       "publisher": "Aladdin Paperbacks",
       "publishDate": "1987",
       "olKey": "/books/OL2373033M",
-      "readBy": {
+      "readList": {
         "2": 2
       },
-      "wantToRead": {},
+      "wishList": {},
       "rating": {
         "allRatings": [
           3
@@ -243,8 +243,8 @@
       "publisher": "Simon & Schuster Books for Young Readers",
       "publishDate": "1996",
       "olKey": "/books/OL794027M",
-      "readBy": {},
-      "wantToRead": {
+      "readList": {},
+      "wishList": {
         "2": 2
       },
       "rating": {
@@ -264,10 +264,10 @@
       "publisher": "Scholastic Press",
       "publishDate": "2003",
       "olKey": "/books/OL3578196M",
-      "readBy": {
+      "readList": {
         "1": 1
       },
-      "wantToRead": {},
+      "wishList": {},
       "rating": {
         "allRatings": [],
         "total": "none",
@@ -285,10 +285,10 @@
       "publisher": "Scholastic Press",
       "publishDate": "2008-10",
       "olKey": "/books/OL37079411M",
-      "readBy": {
+      "readList": {
         "1": 1
       },
-      "wantToRead": {},
+      "wishList": {},
       "rating": {
         "allRatings": [
           5
