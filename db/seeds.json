@@ -128,6 +128,7 @@
         "total": 7,
         "average": 3.5
       },
+      "hasReviews": false,
       "reviews": {},
       "author": "Steven Erikson",
       "description": "Sorry, there is no description available for this book",
@@ -151,6 +152,7 @@
         "total": 5,
         "average": 5
       },
+      "hasReviews": false,
       "reviews": {},
       "author": "Steven Erikson",
       "description": "Sorry, there is no description available for this book",
@@ -176,6 +178,7 @@
         "total": 7,
         "average": 3.5
       },
+      "hasReviews": true,
       "reviews": {
         "4": {
           "user": "naftali kulik",
@@ -204,6 +207,7 @@
         "total": "none",
         "average": "none"
       },
+      "hasReviews": false,
       "reviews": {},
       "author": "J. K. Rowling",
       "description": "The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike\r\n\r\nAnd strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.\r\n\r\nBut each of these seem minor annoyances when the real trouble begins, and someone -- or something -- starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects . . . Harry Potter himself?\r\n(Front flap)",
@@ -227,6 +231,7 @@
         "total": 3,
         "average": 3
       },
+      "hasReviews": false,
       "reviews": {},
       "author": "Judith Viorst ; illustrated by Ray Cruz.",
       "description": "On a day when everything goes wrong for him, Alexander is consoled by the thought that other people have bad days too.",
@@ -247,6 +252,7 @@
         "total": "none",
         "average": "none"
       },
+      "hasReviews": false,
       "reviews": {},
       "author": "Andrew Clements ; pictures by Brian Selznick.",
       "description": "When he decides to turn his fifth grade teacher's love of the dictionary around on her, clever Nick Allen invents a new word and begins a chain of events that quickly moves beyond his control.",
@@ -267,6 +273,7 @@
         "total": "none",
         "average": "none"
       },
+      "hasReviews": false,
       "reviews": {},
       "author": "Suzanne Collins.",
       "description": "When eleven-year-old Gregor and his two-year-old sister are pulled into a strange underground world, they trigger an epic battle involving men, bats, rats, cockroaches, and spiders while on a quest foretold by ancient prophecy.",
@@ -289,6 +296,7 @@
         "total": 5,
         "average": 5
       },
+      "hasReviews": true,
       "reviews": {
         "1": {
           "user": "Naftali Kulik",
