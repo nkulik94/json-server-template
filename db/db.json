@@ -10,33 +10,38 @@
           "author": "Steven Erikson",
           "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
           "ownRating": 5,
-          "id": 1
+          "id": 1,
+          "list": "readList"
         },
         "2": {
           "cover": "https://covers.openlibrary.org/b/id/6680652-M.jpg",
           "author": "Steven Erikson",
           "title": "Deadhouse Gates (The Malazan Book of the Fallen, Book 2)",
           "ownRating": 5,
-          "id": 2
+          "id": 2,
+          "list": "readList"
         },
         "4": {
           "cover": "https://covers.openlibrary.org/b/id/8234423-M.jpg",
           "author": "J. K. Rowling",
           "title": "Harry Potter and the Chamber of Secrets",
-          "id": 4
+          "id": 4,
+          "list": "readList"
         },
         "7": {
           "cover": "https://covers.openlibrary.org/b/id/10335189-M.jpg",
           "author": "Suzanne Collins.",
           "title": "Gregor the Overlander",
-          "id": 7
+          "id": 7,
+          "list": "readList"
         },
         "3": {
           "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
           "author": "J. K. Rowling.",
           "title": "Harry Potter and the Philosopher's Stone",
           "ownRating": 2,
-          "id": 3
+          "id": 3,
+          "list": "readList"
         },
         "8": {
           "cover": "https://covers.openlibrary.org/b/id/12646545-M.jpg",
@@ -44,7 +49,8 @@
           "title": "The Hunger Games",
           "ownRating": 5,
           "review": "great book, a bit disturbing",
-          "id": 8
+          "id": 8,
+          "list": "readList"
         }
       },
       "wishList": {},
@@ -60,7 +66,8 @@
           "author": "Judith Viorst ; illustrated by Ray Cruz.",
           "title": "Alexander and the terrible, horrible, no good, very bad day",
           "ownRating": 3,
-          "id": 5
+          "id": 5,
+          "list": "readList"
         }
       },
       "wishList": {
@@ -68,7 +75,8 @@
           "cover": "https://covers.openlibrary.org/b/id/434060-M.jpg",
           "author": "Andrew Clements ; pictures by Brian Selznick.",
           "title": "Frindle",
-          "id": 6
+          "id": 6,
+          "list": "wishList"
         }
       },
       "id": 2
@@ -83,7 +91,8 @@
           "author": "Steven Erikson",
           "title": "House of Chains (The Malazan Book of the Fallen, Book 4)",
           "ownRating": 2,
-          "id": 1
+          "id": 1,
+          "list": "readList"
         }
       },
       "wishList": {},
@@ -100,7 +109,8 @@
           "title": "Harry Potter and the Philosopher's Stone",
           "ownRating": 5,
           "review": "classic",
-          "id": 3
+          "id": 3,
+          "list": "readList"
         }
       },
       "wishList": {},
