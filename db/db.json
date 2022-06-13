@@ -205,8 +205,8 @@
       "wishList": {},
       "rating": {
         "amount": 0,
-        "total": "none",
-        "average": "none"
+        "total": 0,
+        "average": 0
       },
       "hasReviews": false,
       "reviews": {},
@@ -248,8 +248,8 @@
       },
       "rating": {
         "amount": 0,
-        "total": "none",
-        "average": "none"
+        "total": 0,
+        "average": 0
       },
       "hasReviews": false,
       "reviews": {},
@@ -269,8 +269,8 @@
       "wishList": {},
       "rating": {
         "amount": 0,
-        "total": "none",
-        "average": "none"
+        "total": 0,
+        "average": 0
       },
       "hasReviews": false,
       "reviews": {},
@@ -306,6 +306,5 @@
       "description": "Sorry, there is no description available for this book",
       "id": 8
     }
-  ],
-  "requests": []
+  ]
 }
