@@ -130,10 +130,7 @@
       },
       "wishList": {},
       "rating": {
-        "allRatings": [
-          5,
-          2
-        ],
+        "amount": 2,
         "total": 7,
         "average": 3.5
       },
@@ -155,9 +152,7 @@
       },
       "wishList": {},
       "rating": {
-        "allRatings": [
-          5
-        ],
+        "amount": 1,
         "total": 5,
         "average": 5
       },
@@ -180,10 +175,7 @@
       },
       "wishList": {},
       "rating": {
-        "allRatings": [
-          5,
-          2
-        ],
+        "amount": 2,
         "total": 7,
         "average": 3.5
       },
@@ -212,7 +204,7 @@
       },
       "wishList": {},
       "rating": {
-        "allRatings": [],
+        "amount": 0,
         "total": "none",
         "average": "none"
       },
@@ -234,9 +226,7 @@
       },
       "wishList": {},
       "rating": {
-        "allRatings": [
-          3
-        ],
+        "amount": 1,
         "total": 3,
         "average": 3
       },
@@ -257,7 +247,7 @@
         "2": 2
       },
       "rating": {
-        "allRatings": [],
+        "amount": 0,
         "total": "none",
         "average": "none"
       },
@@ -278,7 +268,7 @@
       },
       "wishList": {},
       "rating": {
-        "allRatings": [],
+        "amount": 0,
         "total": "none",
         "average": "none"
       },
@@ -299,9 +289,7 @@
       },
       "wishList": {},
       "rating": {
-        "allRatings": [
-          5
-        ],
+        "amount": 1,
         "total": 5,
         "average": 5
       },
