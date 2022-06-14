@@ -325,5 +325,17 @@
       "publishDate": "1991",
       "id": 9
       }
+  ],
+  "staff": [
+    {
+      "id": 1,
+      "name":"Naftali Kulik",
+      "title": "Chief Book Wyrm",
+      "bio": "Naftali has been an enthusiastic Book Wyrm his entire life. He has read a wide variety of books covering many different genres, but sci-fi/fantasy has always his first choice. He has aspirations of perhaps becoming a writer himself one day and in the past has resolved to try his hand at writing when he has some time, which is to say, never. His current pursuit of a career in software engineering has effectively put the nail in the proverbial coffin of that particular endeavor. Don't tell him we said this, but we at Book Wyrms think he's probably a better developer than writer anyway, so it's all for the best as they say.",
+      "email": "naftalikulikse@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/naftali-kulik-se/",
+      "github": "https://github.com/nkulik94",
+      "blog": "https://dev.to/nkulik94"
+    }
   ]
 }
