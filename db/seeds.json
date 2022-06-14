@@ -305,6 +305,25 @@
       "author": "Suzanne Collins",
       "description": "Sorry, there is no description available for this book",
       "id": 8
-    }
+    },
+    {
+      "cover": "https://covers.openlibrary.org/b/id/4027083-M.jpg",
+      "author": "Herman Wouk",
+      "title": "This is my God",
+      "olKey": "/books/OL1862423M",
+      "readList": {},
+      "wishList": {},
+      "rating": {
+      "amount": 0,
+      "total": 0,
+      "average": 0
+      },
+      "hasReviews": false,
+      "reviews": {},
+      "description": "Sorry, there is no description available for this book",
+      "publisher": "Walker",
+      "publishDate": "1991",
+      "id": 9
+      }
   ]
 }
