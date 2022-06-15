@@ -192,6 +192,81 @@
     },
     "wishList": {},
     "id": 7
+    },
+    {
+    "name": "Mike Trout",
+    "username": "trouty",
+    "password": "trouty",
+    "readList": {
+    "3": {
+    "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling.",
+    "id": 3,
+    "list": "readList",
+    "ownRating": 5
+    },
+    "9": {
+    "cover": "https://covers.openlibrary.org/b/id/4027083-M.jpg",
+    "title": "This is my God",
+    "author": "Herman Wouk",
+    "id": 9,
+    "list": "readList",
+    "ownRating": 4
+    },
+    "11": {
+    "cover": "https://covers.openlibrary.org/b/id/636185-M.jpg",
+    "title": "Calvin and Hobbes",
+    "author": "Bill Watterson",
+    "id": 11,
+    "list": "readList",
+    "ownRating": 4
+    }
+    },
+    "wishList": {},
+    "id": 8
+    },
+    {
+    "name": "George Bush",
+    "username": "dubya",
+    "password": "dubya",
+    "readList": {
+    "8": {
+    "cover": "https://covers.openlibrary.org/b/id/12646545-M.jpg",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "id": 8,
+    "list": "readList",
+    "ownRating": 3
+    },
+    "9": {
+    "cover": "https://covers.openlibrary.org/b/id/4027083-M.jpg",
+    "title": "This is my God",
+    "author": "Herman Wouk",
+    "id": 9,
+    "list": "readList",
+    "ownRating": 5,
+    "review": "Wonderful book"
+    },
+    "11": {
+    "cover": "https://covers.openlibrary.org/b/id/636185-M.jpg",
+    "title": "Calvin and Hobbes",
+    "author": "Bill Watterson",
+    "id": 11,
+    "list": "readList",
+    "ownRating": 5
+    }
+    },
+    "wishList": {
+    "3": {
+    "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling.",
+    "id": 3,
+    "list": "wishList"
+    }
+    },
+    "id": 9
     }
     ],
   "books": [
@@ -249,13 +324,14 @@
     "readList": {
     "1": 1,
     "4": 4,
-    "7": 7
+    "7": 7,
+    "8": 8
     },
     "wishList": {},
     "rating": {
-    "amount": 3,
-    "total": 12,
-    "average": 4
+    "amount": 4,
+    "total": 17,
+    "average": 4.3
     },
     "hasReviews": true,
     "reviews": {
@@ -392,13 +468,14 @@
     "olKey": "/books/OL1862423M",
     "readList": {
     "6": 6,
-    "7": 7
+    "7": 7,
+    "8": 8
     },
     "wishList": {},
     "rating": {
-    "amount": 2,
-    "total": 10,
-    "average": 5
+    "amount": 3,
+    "total": 14,
+    "average": 4.7
     },
     "hasReviews": false,
     "reviews": {},
@@ -442,13 +519,14 @@
     "title": "Calvin and Hobbes",
     "olKey": "/books/OL2747063M",
     "readList": {
-    "7": 7
+    "7": 7,
+    "8": 8
     },
     "wishList": {},
     "rating": {
-    "amount": 1,
-    "total": 5,
-    "average": 5
+    "amount": 2,
+    "total": 9,
+    "average": 4.5
     },
     "hasReviews": true,
     "reviews": {
