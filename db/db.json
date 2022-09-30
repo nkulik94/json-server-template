@@ -192,81 +192,6 @@
     },
     "wishList": {},
     "id": 7
-    },
-    {
-    "name": "Mike Trout",
-    "username": "trouty",
-    "password": "trouty",
-    "readList": {
-    "3": {
-    "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
-    "title": "Harry Potter and the Philosopher's Stone",
-    "author": "J. K. Rowling.",
-    "id": 3,
-    "list": "readList",
-    "ownRating": 5
-    },
-    "9": {
-    "cover": "https://covers.openlibrary.org/b/id/4027083-M.jpg",
-    "title": "This is my God",
-    "author": "Herman Wouk",
-    "id": 9,
-    "list": "readList",
-    "ownRating": 4
-    },
-    "11": {
-    "cover": "https://covers.openlibrary.org/b/id/636185-M.jpg",
-    "title": "Calvin and Hobbes",
-    "author": "Bill Watterson",
-    "id": 11,
-    "list": "readList",
-    "ownRating": 4
-    }
-    },
-    "wishList": {},
-    "id": 8
-    },
-    {
-    "name": "George Bush",
-    "username": "dubya",
-    "password": "dubya",
-    "readList": {
-    "8": {
-    "cover": "https://covers.openlibrary.org/b/id/12646545-M.jpg",
-    "title": "The Hunger Games",
-    "author": "Suzanne Collins",
-    "id": 8,
-    "list": "readList",
-    "ownRating": 3
-    },
-    "9": {
-    "cover": "https://covers.openlibrary.org/b/id/4027083-M.jpg",
-    "title": "This is my God",
-    "author": "Herman Wouk",
-    "id": 9,
-    "list": "readList",
-    "ownRating": 5,
-    "review": "Wonderful book"
-    },
-    "11": {
-    "cover": "https://covers.openlibrary.org/b/id/636185-M.jpg",
-    "title": "Calvin and Hobbes",
-    "author": "Bill Watterson",
-    "id": 11,
-    "list": "readList",
-    "ownRating": 5
-    }
-    },
-    "wishList": {
-    "3": {
-    "cover": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
-    "title": "Harry Potter and the Philosopher's Stone",
-    "author": "J. K. Rowling.",
-    "id": 3,
-    "list": "wishList"
-    }
-    },
-    "id": 9
     }
     ],
   "books": [
@@ -324,14 +249,13 @@
     "readList": {
     "1": 1,
     "4": 4,
-    "7": 7,
-    "8": 8
+    "7": 7
     },
     "wishList": {},
     "rating": {
-    "amount": 4,
-    "total": 17,
-    "average": 4.3
+    "amount": 3,
+    "total": 12,
+    "average": 4
     },
     "hasReviews": true,
     "reviews": {
@@ -468,18 +392,17 @@
     "olKey": "/books/OL1862423M",
     "readList": {
     "6": 6,
-    "7": 7,
-    "8": 8
+    "7": 7
     },
     "wishList": {},
     "rating": {
-    "amount": 3,
-    "total": 14,
-    "average": 4.7
+    "amount": 2,
+    "total": 10,
+    "average": 5
     },
     "hasReviews": false,
     "reviews": {},
-    "description": "From Wikipedia: This is My God is a non-fiction book by Herman Wouk, first published in 1959. The book summarizes many key aspects of Judaism and is intended for both Jewish and non-Jewish audiences. The author, who served in the United States Navy and was a Pulitzer Prize-winning novelist, writes from a Modern Orthodox perspective.",
+    "description": "Sorry, there is no description available for this book",
     "publisher": "Walker",
     "publishDate": "1991",
     "id": 9
@@ -519,14 +442,13 @@
     "title": "Calvin and Hobbes",
     "olKey": "/books/OL2747063M",
     "readList": {
-    "7": 7,
-    "8": 8
+    "7": 7
     },
     "wishList": {},
     "rating": {
-    "amount": 2,
-    "total": 9,
-    "average": 4.5
+    "amount": 1,
+    "total": 5,
+    "average": 5
     },
     "hasReviews": true,
     "reviews": {
@@ -552,7 +474,7 @@
       "email": "naftalikulikse@gmail.com",
       "linkedin": "https://www.linkedin.com/in/naftali-kulik-se/",
       "github": "https://github.com/nkulik94",
-      "blog": "https://dev.to/nkulik94",
+      "blog": "https://medium.com/@nkulik",
       "image": "https://drive.google.com/uc?export=view&id=12O1_1NbBDxe0KDwPkMHP897AlJVal0o4"
     }
   ],
